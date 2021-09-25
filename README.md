@@ -5,7 +5,7 @@
 - 🌱 I’m currently studying **Computer Engineering**
 - 🤔 I’m looking for help with **Neural Networks**
 - 📫 How to reach me: 
-      - [Linkedin] <https://www.linkedin.com/in/anmish2003/>
+      - [Linkedin] (https://www.linkedin.com/in/anmish2003/)
       - [Mail] <sinoxmeta@gmail.com>
       - [Discord]<Tsuukiyama#9457>
 - 😄 Pronouns: She/Her
