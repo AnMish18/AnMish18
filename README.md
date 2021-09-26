@@ -3,13 +3,13 @@
 
 - I'm currently learning **Data Structures with Python**
 
-- I'm passionate about **Data Science**
+- I'm passionate about **Data Science and backend WebDev**
 
-- I’m looking for help with **Neural networks**
+- I’m looking for help with **Deep learning**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **sinoxmeta@gmail.com**
+- 📫 Mail me **sinoxmeta@gmail.com**
 
 - ⚡ Fun fact **There are many xD..**
 
