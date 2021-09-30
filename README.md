@@ -3,11 +3,11 @@
 
 - I'm currently learning **Data Structures with Python**
 
-- I'm passionate about **Data Science and backend WebDev**
+- I'm passionate about **Full Stack Web Developement**
 
-- I’m looking for help with **Deep learning**
+- I’m looking for help with **MEAN**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **Anything** 
 
 - 📫 Mail me **sinoxmeta@gmail.com**
 
