@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anwesha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmish18&label=Profile%20views&color=0e75b6&style=flat" alt="anmish18" /> </p>
 
-- I'm currently learning **Data Structures with Python**
+- I'm currently learning **MongoDB**
 
 - I'm passionate about **Full Stack Web Developement**
 
-- I’m looking for help with **MEAN**
+- I’m looking for help with **DBMS**
 
 - 💬 Ask me about **Anything** 
 
