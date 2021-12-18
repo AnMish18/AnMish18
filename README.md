@@ -15,7 +15,7 @@
 
 - ⚡ facts: **I compromise a lot, which has never under-utilized my potential 😅(irony, right?)**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
