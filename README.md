@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmish18&label=Profile%20views&color=0e75b6&style=flat" alt="anmish18" /> </p>
 
-- ✨ I’m currently learning **BackEnd Webdevelopement**
+- ✨ I’m currently learning **DSA**
 
-- 🎈 I’m passionate about **Cloud**
+- 🎈 I’m passionate about **Full stack**
 
-- 🤝 I’m looking for help with **non-linear Data structure**
+- 🤝 I’m looking for help with **dynamic programming**
 
-- 💬 Ask me about **front end, sql and anything else :)**
+- 💬 Ask me about **anything but DP :)**
 
 - 📫 mail me **sinoxmeta@gmail.com**
 
