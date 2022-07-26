@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmish18&label=Profile%20views&color=0e75b6&style=flat" alt="anmish18" /> </p>
 
-- ✨ I’m currently learning **DSA**
+- ✨ I’m currently learning **Redux**
 
 - 🎈 I’m passionate about **Full stack**
 
