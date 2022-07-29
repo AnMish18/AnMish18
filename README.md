@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Anwesha!~</h1>
 <h3 align="center">Life's all about programming and anime 😃!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmish18&label=Profile%20views&color=0e75b6&style=flat" alt="anmish18" /> </p>
+
 
 - ✨ I’m currently learning **Redux**
 
